@@ -283,3 +283,23 @@ b {
 	resize: none;
 	color: white;
 }
+
+@media(max-width: 800px) {
+	.container {
+		width: 100%;
+	}
+	.about-page .cards .card, .about-page .cards .card img {
+		width: 100%;
+	}
+	.jumbo-section img {
+		width: 100%;
+	}
+}
+
+
+@media(max-width: 450px) {
+	header img {
+		/* bad! :P */
+		display: none;
+	}
+}
