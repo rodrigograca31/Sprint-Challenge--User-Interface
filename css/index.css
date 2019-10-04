@@ -171,6 +171,37 @@ header nav a {
 	width: 100%;
 }
 
+.middle-content .boxes .teal {
+	background: teal;
+}
+.middle-content .boxes .gold {
+	background: gold;
+}
+.middle-content .boxes .cadetblue {
+	background: cadetblue;
+}
+.middle-content .boxes .coral {
+	background: coral;
+}
+.middle-content .boxes .crimson {
+	background: crimson;
+}
+.middle-content .boxes .forestgreen {
+	background: forestgreen;
+}
+.middle-content .boxes .darkorchid {
+	background: darkorchid;
+}
+.middle-content .boxes .hotpink {
+	background: hotpink;
+}
+.middle-content .boxes .indigo {
+	background: indigo;
+}
+.middle-content .boxes .dodgerblue {
+	background: dodgerblue;
+}
+
 .about-page .about {
 	border-bottom: 1px dashed black;
 	padding: 20px;
