@@ -243,3 +243,19 @@ header nav a {
 b {
 	font-weight: bold;
 }
+
+@keyframes you-spin-me-round {
+	from {
+		transform:rotate(0deg);
+	}
+	to {
+		transform:rotate(360deg);
+	}
+}
+
+.products-page img:hover{
+	-webkit-animation-name: you-spin-me-round;
+	-webkit-animation-duration: 2s;
+	animation-name: you-spin-me-round;
+	animation-duration: 2s;
+}
