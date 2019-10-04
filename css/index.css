@@ -259,3 +259,27 @@ b {
 	animation-name: you-spin-me-round;
 	animation-duration: 2s;
 }
+
+.contact {
+	padding: 20px;
+}
+
+.contact input {
+	width: 100%;
+	padding: 10px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: none;
+	background-color: black;
+	color: white;
+}
+.contact textarea {
+	width: 100%;
+	height: 150px;
+	padding: 10px;
+	margin: 8px 0;
+	border: none;
+	background-color: black;
+	resize: none;
+	color: white;
+}
